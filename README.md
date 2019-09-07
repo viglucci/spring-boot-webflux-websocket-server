@@ -1,4 +1,4 @@
-# spring-boot-stomp-websocket-server
+# spring-boot-webflux-websocket-server
 
 Simple example application using webflux and websockets.
 
