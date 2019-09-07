@@ -12,7 +12,7 @@
 	<artifactId>websocket-test-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>websocket-test-server</name>
+	<name>spring-boot-webflux-websocket-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
