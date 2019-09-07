@@ -37,8 +37,8 @@ class WebSocketConfig {
 	public HandlerMapping webSocketHandlerMapping() {
 		return new SimpleUrlHandlerMapping() {
 			{
-				setUrlMap(Collections.singletonMap("/ws/echo", new EchoHandler()));
-				setOrder(10);
+				setUrlMap(Collections.singletonMap("/ws/echo", echoHandler));
+				setOrder(1);
 			}
 		};
 	}
