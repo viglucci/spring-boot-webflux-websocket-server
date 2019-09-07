@@ -11,7 +11,7 @@
 	<groupId>com.solidice</groupId>
 	<artifactId>websocket-test-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>websocket-test-server</name>
 	<description>Demo project for Spring Boot</description>
 
